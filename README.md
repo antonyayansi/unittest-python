@@ -29,7 +29,7 @@ cd unittest-python
 ```
 Ejecuta las pruebas:
 ```bash
-python3 -m unittest test_operaciones.py
+python3 test_operaciones.py
 ```
 ##### 📂 Estructura del proyecto
 ```plaintext
